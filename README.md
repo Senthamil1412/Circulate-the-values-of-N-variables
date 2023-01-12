@@ -6,7 +6,9 @@ PC
 Anaconda - Python 3.7
 ## Algorithm: 
 ### Step 1: 
+#Program to circulate N values.
 ### Step 2: 
+circulate the values
 ### Step 3: 
 Get the value from the user for the number of rotation
 ### Step 4: 
